@@ -1,0 +1,24 @@
+{
+  "name": "obd-pi-driver",
+  "version": "1.0.0",
+  "description": "Connect to an OBD dongle using a raspberry pi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drdaliang/OBD_pi_driver.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "OBD"
+  ],
+  "author": "drdaliang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drdaliang/OBD_pi_driver/issues"
+  },
+  "homepage": "https://github.com/drdaliang/OBD_pi_driver#readme"
+}
